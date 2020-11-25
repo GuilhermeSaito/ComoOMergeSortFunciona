@@ -1,0 +1,1 @@
+## Mostrando como funciona o Merge Sort, tem uma figurinha no programa.
